@@ -1,12 +1,9 @@
-# 👋 Hi, I'm Kenny !
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋!
 
-<!---
-k3nnytang/k3nnytang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Kenny! I am a Computer Science undergraduate. I enjoy learning how computers work and building projects that deepen my understanding of programming. I also like problem-solving and exploring new programming concepts and discovering different areas of tech.
+
+Outside of my studies, I enjoy watching movies, cycling, playing badminton, and listening to soundtrack music.
+
+#### Contact Information:
+- Email : `k3nny.t4ng@gmail.com`
+- Discord :`kennt1201`
